@@ -1,7 +1,9 @@
-<script setup></script>
+<script setup>
+import Menu from "./components/Menu.vue";
+</script>
 
 <template>
-  <h1>Hello</h1>
+  <Menu />
 </template>
 
 <style scoped></style>
